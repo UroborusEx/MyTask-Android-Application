@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout app:id="@id/drawerLayout" app:background="@color/mainBackground" app:fitsSystemWindows="true" app:layout_width="-1" app:layout_height="-1">
+    <android.support.design.widget.AppBarLayout app:layout_width="-1" app:layout_height="-2">
+        <android.support.v7.widget.Toolbar app:theme="@style/ThemeOverlay_AppCompat_Dark" app:id="@id/toolbar" app:background="?unknown_attr_ref: 7f0100eb" app:layout_width="-1" app:layout_height="?unknown_attr_ref: 7f0100af" app:layout_scrollFlags="11" />
+        <android.support.design.widget.TabLayout app:id="@id/tabLayout" app:layout_width="-1" app:layout_height="-2" app:tabIndicatorColor="0x106000b" app:tabIndicatorHeight="6dp" app:tabTextColor="0x106000b" app:tabSelectedTextColor="0x106000b" />
+    </android.support.design.widget.AppBarLayout>
+    <android.support.v4.view.ViewPager app:id="@id/viewPager" app:layout_width="-1" app:layout_height="-1" app:layout_behavior="@string/appbar_scrolling_view_behavior" />
+    <android.support.design.widget.FloatingActionButton app:layout_gravity="800055" app:id="@id/actionButton" app:layout_width="-2" app:layout_height="-2" app:layout_marginRight="@dimen/fab_margin" app:layout_marginBottom="@dimen/fab_margin" app:src="@drawable/ic_plus" app:backgroundTint="@color/colorPrimary" />
+</android.support.design.widget.CoordinatorLayout>

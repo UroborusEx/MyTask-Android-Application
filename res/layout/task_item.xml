@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout card:orientation="1" card:layout_width="-1" card:layout_height="-1" card:layout_marginLeft="12dp" card:layout_marginTop="5dp" card:layout_marginRight="12dp" card:layout_marginBottom="5dp">
+    <android.support.v7.widget.CardView card:id="@id/cardView" card:layout_width="-1" card:layout_height="-2" card:cardElevation="2dp" card:cardUseCompatPadding="true">
+        <LinearLayout card:orientation="1" card:padding="16dp" card:layout_width="-1" card:layout_height="-2">
+            <TextView card:textSize="8pt" card:textColor="@color/colorBlack" card:id="@id/title" card:paddingBottom="5dp" card:layout_width="-2" card:layout_height="-2" />
+            <TextView card:id="@id/date" card:layout_width="-2" card:layout_height="-2" card:text="TEST" />
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+</LinearLayout>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="@dimen/date_picker_component_width" android:layout_height="-2" style="?unknown_attr_ref: 101032e">
+    <Button android:textSize="@dimen/done_label_size" android:textColor="@color/done_text_color" android:id="@id/done" android:layout_width="-1" android:layout_height="-2" android:minHeight="48dp" android:text="@string/done_label" style="?unknown_attr_ref: 101032f" />
+</LinearLayout>

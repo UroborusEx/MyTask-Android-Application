@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="day_picker_description">Month grid of days</string>
+    <string name="deleted_key">%1$s deleted</string>
+    <string name="done_label">Done</string>
+    <string name="hour_picker_description">Hours circular slider</string>
+    <string name="item_is_selected">%1$s selected</string>
+    <string name="minute_picker_description">Minutes circular slider</string>
+    <string name="select_day">Select month and day</string>
+    <string name="select_hours">Select hours</string>
+    <string name="select_minutes">Select minutes</string>
+    <string name="select_year">Select year</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="year_picker_description">Year list</string>
+    <string name="actual">Current Tasks</string>
+    <string name="app_name">MyTasks</string>
+    <string name="context_menu_delete">Delete</string>
+    <string name="context_menu_rename">Rename</string>
+    <string name="context_menu_title">Select action</string>
+    <string name="history">History</string>
+    <string name="inflate_key_day">input_data_day</string>
+    <string name="inflate_key_month">input_data_month</string>
+    <string name="inflate_key_task">task_for_change</string>
+    <string name="inflate_key_text">input_text</string>
+    <string name="inflate_key_year">input_data_year</string>
+    <string name="title">Search</string>
+    <string name="day_of_week_label_typeface">sans-serif</string>
+    <item type="string" name="ampm_circle_radius_multiplier">0.19</item>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <item type="string" name="circle_radius_multiplier">0.82</item>
+    <item type="string" name="circle_radius_multiplier_24HourMode">0.85</item>
+    <item type="string" name="numbers_radius_multiplier_inner">0.6</item>
+    <item type="string" name="numbers_radius_multiplier_normal">0.81</item>
+    <item type="string" name="numbers_radius_multiplier_outer">0.83</item>
+    <string name="radial_numbers_typeface">sans-serif</string>
+    <string name="sans_serif">sans-serif</string>
+    <item type="string" name="selection_radius_multiplier">0.16</item>
+    <item type="string" name="text_size_multiplier_inner">0.14</item>
+    <item type="string" name="text_size_multiplier_normal">0.17</item>
+    <item type="string" name="text_size_multiplier_outer">0.11</item>
+    <string name="time_placeholder">--</string>
+    <string name="time_separator">:</string>
+</resources>

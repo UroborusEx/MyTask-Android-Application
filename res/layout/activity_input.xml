@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout app:orientation="1" app:background="@color/mainBackground" app:fitsSystemWindows="true" app:layout_width="-1" app:layout_height="-1">
+    <android.support.design.widget.AppBarLayout app:fitsSystemWindows="true" app:layout_width="-1" app:layout_height="-2">
+        <android.support.v7.widget.Toolbar app:theme="@style/ThemeOverlay_AppCompat_Dark" app:id="@id/toolbar" app:background="?unknown_attr_ref: 7f0100eb" app:layout_width="-1" app:layout_height="?unknown_attr_ref: 7f0100af" />
+    </android.support.design.widget.AppBarLayout>
+    <EditText app:gravity="800013" app:id="@id/edit_text" app:background="@timepickerdialog/HOUR_INDEX" app:paddingLeft="?unknown_attr_ref: 7f0100e1" app:paddingTop="20dp" app:paddingRight="?unknown_attr_ref: 7f0100e2" app:paddingBottom="20dp" app:layout_width="-1" app:layout_height="-2" app:minHeight="?unknown_attr_ref: 7f0100de" app:inputType="1" />
+</LinearLayout>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu>
+    <item app:icon="@drawable/ic_search" app:id="@id/search" app:orderInCategory="1" app:title="@string/title" app:layout_scrollFlags="11" app:showAsAction="1" />
+</menu>
